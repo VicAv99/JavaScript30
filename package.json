@@ -4,8 +4,7 @@
   "description": "Wesbos' JS course used for practice",
   "main": "index.js",
   "scripts": {
-    "start": "browser-sync start --server --files \"*.html, *.css, *.js\" --port 3600",
-    "directory": "browser-sync start --directory --server --watch --files \"*.css, *.html, *.js\" --port 3500"
+    "start": "browser-sync start --directory --server --watch --files \"*.css, *.html, *.js\" --port 3500"
   },
   "repository": {
     "type": "git",
